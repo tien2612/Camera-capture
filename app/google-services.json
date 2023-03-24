@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858834929468",
+    "project_id": "plant-pests-detection",
+    "storage_bucket": "plant-pests-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858834929468:android:cfc2b719e06b07a84b4039",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858834929468-6226naik3cgjjmrloplsrncrl0e24m5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDxQGZ52pdmyn55mpGijnxG7jL6Gaqjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858834929468-6226naik3cgjjmrloplsrncrl0e24m5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
